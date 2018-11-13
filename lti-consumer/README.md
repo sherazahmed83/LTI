@@ -5,7 +5,7 @@
 Please follow the below steps to run Consumer
 
 1. Go to `
-         LTI-Consumer-Tool/src/main/java/com/lti/toolconsumer/ParamConfig.java
+         LTI-Consumer-Tool/src/main/java/com/sheraz/tutorial/lti/consumer/tool/config/ParamConfig.java
        ` and edit the Parameters as per your requirements. 
        
 2. Generate the JAR file 
