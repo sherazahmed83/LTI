@@ -1,17 +1,17 @@
-##  LTI Provider Tool
+##  LTI Producer Tool
 
-#### How to run the LTI Provider Tool
+#### How to run the LTI Producer Tool
 
-NOTE: Make sure you have [Consumer Tool] already setup,  & running on your System. Please follow the below steps to run LTI Provider 
+NOTE: Make sure you have [Consumer Tool] already setup,  & running on your System. Please follow the below steps to run LTI Producer 
 
 1. Go to `
-      LTI-Provider-Tool/src/main/resources/application.properties
+      LTI-Producer-Tool/src/main/resources/application.properties
     ` and make sure that the `consumerKey` should be same as Consumer Tool.
 
 2. Now let's Generate the JAR file, through CMD/Command Prompt or Terminal, in the project directory 
 
     ``
-    cd LTI-Provider-Tool
+    cd LTI-Producer-Tool
     ``
     
     ``mvn clean install``
